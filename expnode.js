@@ -32,7 +32,7 @@ app.use(bodyParser.json());
 
 
   app.get("/", (req, res) => {
-    res.send(sendable.message);
+    res.sendStatus(200);
   });
   
   app.listen(port, () => {
