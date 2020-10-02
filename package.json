@@ -1,5 +1,7 @@
 {
-  "start": "npm expnode.js",
+  "scripts": {
+  "start": "node expnode.js"
+  }
   "name": "console_chat",
   "version": "1.0.0",
   "description": "Simple Console Chat",
