@@ -1,7 +1,8 @@
 {
-  "name": "videoserver",
+  "start": "npm expnode.js",
+  "name": "console_chat",
   "version": "1.0.0",
-  "description": "Play video together",
+  "description": "Simple Console Chat",
   "main": "expnode.js",
   "dependencies": {
     "express":"4.17.1",
