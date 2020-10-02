@@ -1,7 +1,8 @@
 {
   "scripts": {
-  "start": "node expnode.js"
-  }
+  "start": "node expnode.js",
+  "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "name": "console_chat",
   "version": "1.0.0",
   "description": "Simple Console Chat",
@@ -11,9 +12,6 @@
     "body-parser":"1.19.0"
   },
   "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "",
   "license": "ISC"
 }
